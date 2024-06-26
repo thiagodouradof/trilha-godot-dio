@@ -18,9 +18,16 @@ O objetivo é sobreviver o maior tempo possível e matar o maior número de inim
 
 Links úteis:
 
+Programação básica:
 https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07
+
+Github trilha:
 https://github.com/digitalinnovationone/trilha-godot
+
+Trilha godot:
 https://dio-rafa.notion.site/Trilha-Godot-Bootcamp-5ad62cfaa65f4296a62733557b3b75a0#642dba94badc449cbb24c1cef3464ada
+
+Como fazer artigos:
 https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EWDaApZ-EpZIp4P_DgaExdYBCY2__n3WmregR6Mik1U82g?rtime=M2whFgqW3Eg
 
 Aprendi os seguintes conteúdos:
