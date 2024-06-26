@@ -16,6 +16,13 @@ O objetivo é sobreviver o maior tempo possível e matar o maior número de inim
 ![image](https://github.com/thiagodouradof/trilha-godot-dio/assets/165097038/006331b8-4d43-49f3-b3ed-6cd851dd9209)
 
 
+Links úteis:
+
+https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07
+https://github.com/digitalinnovationone/trilha-godot
+https://dio-rafa.notion.site/Trilha-Godot-Bootcamp-5ad62cfaa65f4296a62733557b3b75a0#642dba94badc449cbb24c1cef3464ada
+https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EWDaApZ-EpZIp4P_DgaExdYBCY2__n3WmregR6Mik1U82g?rtime=M2whFgqW3Eg
+
 Aprendi os seguintes conteúdos:
 - Princípios de Desenvolvimento de Software Colaborativo
 - Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
